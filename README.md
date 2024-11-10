@@ -1,4 +1,4 @@
-his project contains implementations of Randomized Quicksort, Deterministic Quicksort, and a Hash Table, along with an analysis of their performance.
+This project contains implementations of Randomized Quicksort, Deterministic Quicksort, and a Hash Table, along with an analysis of their performance.
 
 How to Run the Code
 **Randomized quicksort.py**
